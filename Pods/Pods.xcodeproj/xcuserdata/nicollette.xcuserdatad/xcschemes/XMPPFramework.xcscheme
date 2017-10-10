@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '911A52AE2F1728BBA4BBFA148EBE2E37'
+               BlueprintIdentifier = 'C3B2456E7E607011A6A6C85DC3052434'
                BlueprintName = 'XMPPFramework'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'XMPPFramework.framework'>
